@@ -1,0 +1,17 @@
+img, a {
+    width: 50%;
+    height: 50%;
+}
+
+div {
+    display: flex;
+    flex-direction: row;
+}
+#middle {
+    display: flex;
+    align-items: center;
+}
+#end {
+    display: flex;
+    align-items: end;
+}
